@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**raj68518/raj68518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...diffrent type of navigation design
 - 🌱 I’m currently learning ...Redux and vuejs
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... on twitter https://twitter.com/Adityar01842652
-- 📫 How to reach me: ...raj68518@gmail.com
+- 📫 How to reach me: ...  raj68518@gmail.com
+
+
+<!--
+**raj68518/raj68518** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
