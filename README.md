@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on ...diffrent type of navigation design
 - 🌱 I’m currently learning ...Redux and vuejs
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on ...react-js
+- 🤔 I’m looking for help with ... vue-js
 - 💬 Ask me about ... on twitter https://twitter.com/Adityar01842652
 - 📫 How to reach me: ...  raj68518@gmail.com
 
