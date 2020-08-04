@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=Adityapanther&&show_icons=true&title_color=151515&icon_color=bb2acf&text_color=ffffff&bg_color=ff9800">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapanther&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
