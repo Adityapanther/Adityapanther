@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...diffrent type of navigation design
+- 🔭 I’m currently working on ...Realtime-chat-app
 - 🌱 I’m currently learning ...Redux and vuejs
 - 👯 I’m looking to collaborate on ...Chat-app
 - 🤔 I’m looking for help with ... vue-js
