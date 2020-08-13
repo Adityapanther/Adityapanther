@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...Redux and vuejs
 - 👯 I’m looking to collaborate on ...Chat-app
 - 🤔 I’m looking for help with ... vue-js
-- 💬 Ask me about ... on twitter https://twitter.com/Adityar01842652
+- 💬 Ask me about ... on   [twitter](https://twitter.com/Adityar01842652)
 - 📫 How to reach me: ...  raj68518@gmail.com
 
 
