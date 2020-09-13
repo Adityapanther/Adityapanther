@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...Realtime-chat-app
-- 🌱 I’m currently learning ...Redux and vuejs
+- 🔭 I’m currently working on ...Lotus - Free Theme For Wordpress
+- 🌱 I’m currently learning ... vuejs
 - 👯 I’m looking to collaborate on ...Chat-app
 - 🤔 I’m looking for help with ... vue-js
 - 💬 Ask me about ... on   [twitter](https://twitter.com/Adityar01842652)
