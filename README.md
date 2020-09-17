@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...Lotus - Free Theme For Wordpress
+- 🔭 I’m currently working on ...Lotus - Free Wordpress Theme for blogger
 - 🌱 I’m currently learning ... vuejs
 - 👯 I’m looking to collaborate on ...Chat-app
 - 🤔 I’m looking for help with ... vue-js
