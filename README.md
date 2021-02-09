@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... Flutter_touch_ripple_effect package
-- 🌱 I’m currently learning ... vuejs
+- 🌱 I’m currently learning ... foreign function interface (ffi)
 - 👯 I’m looking to collaborate on ...Lotus-wordpress
 - 🤔 I’m looking for help with ... typeScript
 - 💬 Ask me about ... on   [twitter](https://twitter.com/panther_aditya)
