@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... fastify REST API
-- 🌱 I’m currently learning ... fastify framework
+- 🌱 I’m currently learning ... blockchain
 - 👯 I’m looking to collaborate on ...Lotus-wordpress
 - 🤔 I’m looking for help with ... typeScript
 - 💬 Ask me about ... on   [twitter](https://twitter.com/panther_aditya)
