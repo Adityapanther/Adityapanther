@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ... fastify REST API
 - 🌱 I’m currently learning ... blockchain
 - 👯 I’m looking to collaborate on ...Lotus-wordpress
-- 🤔 I’m looking for help with ... typeScript
+- 🤔 I’m looking for help with ... nothing
 - 💬 Ask me about ... on   [twitter](https://twitter.com/panther_aditya)
 - 📫 How to reach me: ...  raj68518@gmail.com
 
