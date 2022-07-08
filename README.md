@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapanther&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKkPtvEpXocICqosr5XbhsP5TBmONFzB1kyA&usqp=CAU">
+<img width="350px" height="350px" src="https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/20/w1200X800/JINDE2812.jpg">
