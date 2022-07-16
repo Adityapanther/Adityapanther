@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... fastify REST API
+- 🔭 I’m currently working on ... blockchain (BSV)
 - 🌱 I’m currently learning ... blockchain
 - 👯 I’m looking to collaborate on ...Lotus-wordpress
 - 🤔 I’m looking for help with ... nothing
