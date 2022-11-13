@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... blockchain (BSV)
 - 🌱 I’m currently learning ... blockchain
-- 👯 I’m looking to collaborate on ...Lotus-wordpress
+- 👯 I’m looking to collaborate on ...presswink
 - 🤔 I’m looking for help with ... nothing
 - 💬 Ask me about ... on   [twitter](https://twitter.com/panther_aditya)
 - 📫 How to reach me: ...  raj68518@gmail.com
