@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapanther&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=Adityapanther&layout=compact)
 
 
-<img width="350px" height="350px" src="https://images.newindianexpress.com/uploads/user/imagelibrary/2021/8/20/w1200X800/JINDE2812.jpg">
+<img width="350px" height="250px" src="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/1200px-Flag_of_India.svg.png"/>
